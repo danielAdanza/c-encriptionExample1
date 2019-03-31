@@ -1,0 +1,5 @@
+C:\Users\Lenovo\Desktop\apuntes\Master año 2\PodatkovnaZascita\CSInteropSign\CSInteropSign\bin\Debug\CSInteropSign.exe
+C:\Users\Lenovo\Desktop\apuntes\Master año 2\PodatkovnaZascita\CSInteropSign\CSInteropSign\bin\Debug\CSInteropSign.pdb
+C:\Users\Lenovo\Desktop\apuntes\Master año 2\PodatkovnaZascita\CSInteropSign\CSInteropSign\obj\Debug\CSInteropSign.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\apuntes\Master año 2\PodatkovnaZascita\CSInteropSign\CSInteropSign\obj\Debug\CSInteropSign.exe
+C:\Users\Lenovo\Desktop\apuntes\Master año 2\PodatkovnaZascita\CSInteropSign\CSInteropSign\obj\Debug\CSInteropSign.pdb
